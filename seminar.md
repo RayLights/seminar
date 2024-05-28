@@ -1,3 +1,11 @@
+# questions 28.5.2024
+cant download from G-Light, cant connect with server. 
+recommended tool for using .las files ? 
+does he use windows with conda or wsl ? 
+
+
+
+
 # point-based approach
 Process point clouds to produce a sparse representation 
 Extraction of a feature vector by aggregating their neighbouring features 
