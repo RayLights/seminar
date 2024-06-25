@@ -1,0 +1,19 @@
+{
+ "pipeline":[
+  "Wertheim_Jun2016_c1r0.las",
+  {
+   "type": "filters.outlier",
+   "method":"statistical",
+   "multiplier": 3,
+   "mean_k": 8
+  },
+ {
+  "type": "filters.expression",
+  "expression": "(Classification != 7)&&(Z >= -100 && Z<=3000)"
+ },
+{
+ "type": "writers.las",
+ "filename": "clean.las"
+}
+ ]
+}

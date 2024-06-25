@@ -1,1 +1,10 @@
 .venv*
+*.las
+*.gz
+papers/
+module3/
+las_files/
+*.laz
+*.copc.laz
+/Users/Elaji/seminar/las_files
+*.pptx

@@ -85,3 +85,18 @@ high information gain features are selected
 data divided in training and validations set 
 ## model evaluation 6. 
 evaluation of the model 
+
+## work the audience through a example of working with data 
+
+## sources
+https://desktop.arcgis.com/en/arcmap/latest/manage-data/las-dataset/lidar-point-classification.htm
+https://campar.in.tum.de/Students/MaTemporal3DObjectDetectionInLidarPointClouds
+https://www.researchgate.net/publication/258230166_Feature_relevance_assessment_for_the_semantic_interpretation_of_3D_point_cloud_data
+https://isprs-annals.copernicus.org/articles/IV-1-W1/157/2017/isprs-annals-IV-1-W1-157-2017.pdf
+https://www.eurosdr.net/sites/default/files/images/inline/05-2019-12-04_presentation_pcp_workshop_weinmann.pdf
+https://april.eecs.umich.edu/pdfs/li2010.pdf
+https://towardsdatascience.com/a-gis-pipeline-for-lidar-point-cloud-feature-extraction-8cd1c686468a
+https://github.com/url-kaist/patchwork-plusplus
+https://www.semanticscholar.org/reader/74f6d9557df0bc3409cb590c7892aa57b6663dc1
+
+https://www.aeroscout.ch/index.php/reference-stories/nasa-gedi-project-lidar
